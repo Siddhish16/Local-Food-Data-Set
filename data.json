@@ -34,5 +34,17 @@
         "rating": "4.5",
         "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.archanaskitchen.com%2Fvada-pav-recipe-a-delicious-indian-street-food&psig=AOvVaw2OyBbTvFjBAThIC9U0XgEp&ust=1664631677266000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNjU9bHSvPoCFQAAAAAdAAAAABAD",
         "location": "https://goo.gl/maps/X2EAgLhEzUXMynBy5"
+    },
+{
+        "id": 6,
+        "placeOfOrigin": "India",
+        "region": "Pune",
+        "city": "Pune",
+        "food" : "Misalpav",
+        "type": "Street Food",
+        "foodEnergy": "289 cal",
+        "rating": "5",
+        "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmyfoodstory.com%2Feasy-misal-pav-recipe%2F&psig=AOvVaw17eRnGiTY4NopWnH_dTY8H&ust=1664641196413000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPjLver1vPoCFQAAAAAdAAAAABAD",
+        "location": "https://www.google.com/search?q=misal%20pav%20location%20in%20pune&source=lmns&rlz=1C1NDCM_enIN940IN940&hl=en&sa=X&ved=2ahUKEwi9l4qB9rz6AhUaxjgGHXQeCpAQvS56BAgEEAE&tbs=lf:1,lf_ui:9&tbm=lcl&sxsrf=ALiCzsZrNgjswhS8xJfEPGfUVhtccix0tQ:1664554843153&rflfq=1&num=10&rldimm=2567496138288808944&lqi=ChptaXNhbCBwYXYgbG9jYXRpb24gaW4gcHVuZUjv7rb85oCAgAhaGxAAEAEYABgDIhFtaXNhbCBwYXYgaW4gcHVuZZIBFGJyZWFrZmFzdF9yZXN0YXVyYW50mgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU13ZVRReWVGcG5FQUWqASkKCi9tLzA0bGpoazUKCi9tLzA1Zjk1Y3QQASoNIgltaXNhbCBwYXYoAA&phdesc=PD2a1wY6FQw&rlst=f#rlfi=hd:;si:9259660884661146734;mv:[[18.5884534,73.99799329999999],[18.450350099999998,73.7705898]]"
     }
 ]
